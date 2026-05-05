@@ -25,6 +25,14 @@ An advanced browser-based Hand Tracking AR experience built using MediaPipe Hand
 - Canvas API
 - Web Audio API
 
+
+## How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Harjyotsingh/Demo.git
+
 ## Themes
 
 - Rainbow
